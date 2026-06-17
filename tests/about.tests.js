@@ -9,5 +9,3 @@ suite('About page', function() {
     assert.ok(body.includes("<h1>About</h1>"));
   });
 });
-
-// This comment is used for testing the CI with Jenkins after commiting
